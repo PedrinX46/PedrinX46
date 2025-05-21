@@ -150,8 +150,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
+### 📊 Estatísticas PedrinX🚀
 <p>
   <img 
     align="left" 
